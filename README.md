@@ -1,3 +1,4 @@
+```
 usage: transeq [-h] [-v {short,long}] [-p {1,2}] [-r] [-s STOP_CHARACTER]
                [--no_mask] [--keep_whitespace]
                [sequence_input]
@@ -25,3 +26,4 @@ optional arguments:
   --keep_whitespace, -k
                         treat whitespace (both bordering and internal) as
                         sequence (default: False)
+```
